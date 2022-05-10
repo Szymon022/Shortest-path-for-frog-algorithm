@@ -1,4 +1,4 @@
-# Shortest-path-for-frog-algorithm
+# Shortest path for frog algorithm
 
 # Graphs.dll and TestSet.dll created by Phd Michał Dębski
 
